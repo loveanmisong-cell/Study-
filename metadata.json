@@ -1,0 +1,6 @@
+{
+  "name": "NOVA AI Manager",
+  "description": "Smart bilingual Hindi and English female AI voice assistant with live Android device control simulator, permission confirmation, and upgraded Android Studio Kotlin project code.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
